@@ -1,0 +1,67 @@
+<svg viewBox="0 0 900 1300" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+  <rect width="900" height="1300" fill="#ffffff"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="900" height="60" fill="#e6e6e6"/>
+  <rect x="30" y="20" width="90" height="20" fill="#9c9c9c"/>
+  <rect x="600" y="22" width="60" height="16" fill="#bdbdbd"/>
+  <rect x="670" y="22" width="60" height="16" fill="#bdbdbd"/>
+  <rect x="740" y="22" width="60" height="16" fill="#bdbdbd"/>
+  <rect x="810" y="22" width="60" height="16" fill="#bdbdbd"/>
+  <text x="450" y="35" font-size="11" fill="#8a8a8a" text-anchor="middle">HEADER / NAV</text>
+
+  <!-- Hero -->
+  <rect x="0" y="60" width="900" height="220" fill="#f5f5f5"/>
+  <rect x="60" y="110" width="360" height="26" fill="#4d4d4d"/>
+  <rect x="60" y="150" width="300" height="26" fill="#4d4d4d"/>
+  <rect x="60" y="200" width="260" height="14" fill="#a3a3a3"/>
+  <rect x="60" y="230" width="140" height="36" rx="18" fill="#0f9b8e"/>
+  <circle cx="700" cy="170" r="90" fill="#cdeee9" stroke="#0f9b8e" stroke-width="3"/>
+  <text x="450" y="300" font-size="11" fill="#8a8a8a" text-anchor="middle">HERO — H1 + CTA + VISUEL</text>
+
+  <!-- A propos -->
+  <rect x="0" y="330" width="900" height="200" fill="#ffffff"/>
+  <circle cx="150" cy="430" r="70" fill="#eeeeee" stroke="#bdbdbd" stroke-width="2"/>
+  <rect x="270" y="380" width="200" height="20" fill="#4d4d4d"/>
+  <rect x="270" y="415" width="500" height="12" fill="#a3a3a3"/>
+  <rect x="270" y="435" width="480" height="12" fill="#a3a3a3"/>
+  <rect x="270" y="455" width="460" height="12" fill="#a3a3a3"/>
+  <rect x="270" y="480" width="150" height="30" rx="15" fill="#ffffff" stroke="#4d4d4d" stroke-width="2"/>
+  <text x="450" y="555" font-size="11" fill="#8a8a8a" text-anchor="middle">A PROPOS — H2</text>
+
+  <!-- Competences -->
+  <rect x="0" y="580" width="900" height="220" fill="#f5f5f5"/>
+  <rect x="400" y="600" width="100" height="18" fill="#4d4d4d" text-anchor="middle"/>
+  <rect x="80" y="650" width="330" height="12" fill="#bdbdbd"/>
+  <rect x="80" y="650" width="230" height="12" fill="#0f9b8e"/>
+  <rect x="80" y="680" width="330" height="12" fill="#bdbdbd"/>
+  <rect x="80" y="680" width="180" height="12" fill="#0f9b8e"/>
+  <rect x="80" y="710" width="330" height="12" fill="#bdbdbd"/>
+  <rect x="80" y="710" width="150" height="12" fill="#0f9b8e"/>
+  <rect x="490" y="650" width="330" height="12" fill="#bdbdbd"/>
+  <rect x="490" y="650" width="200" height="12" fill="#0f9b8e"/>
+  <rect x="490" y="680" width="330" height="12" fill="#bdbdbd"/>
+  <rect x="490" y="680" width="150" height="12" fill="#0f9b8e"/>
+  <rect x="490" y="710" width="330" height="12" fill="#bdbdbd"/>
+  <rect x="490" y="710" width="200" height="12" fill="#0f9b8e"/>
+  <text x="450" y="785" font-size="11" fill="#8a8a8a" text-anchor="middle">COMPETENCES — H2 (2 colonnes)</text>
+
+  <!-- Projets -->
+  <rect x="0" y="820" width="900" height="240" fill="#ffffff"/>
+  <rect x="60" y="860" width="230" height="160" rx="8" fill="#f0f0f0" stroke="#c9c9c9"/>
+  <rect x="335" y="860" width="230" height="160" rx="8" fill="#f0f0f0" stroke="#c9c9c9"/>
+  <rect x="610" y="860" width="230" height="160" rx="8" fill="#f0f0f0" stroke="#c9c9c9"/>
+  <rect x="90" y="985" width="80" height="24" rx="12" fill="#0f9b8e"/>
+  <rect x="365" y="985" width="80" height="24" rx="12" fill="#0f9b8e"/>
+  <rect x="640" y="985" width="80" height="24" rx="12" fill="#0f9b8e"/>
+  <text x="450" y="1045" font-size="11" fill="#8a8a8a" text-anchor="middle">PROJETS — H2 (cartes)</text>
+
+  <!-- Contact -->
+  <rect x="0" y="1070" width="900" height="230" fill="#1a2438"/>
+  <rect x="350" y="1100" width="200" height="20" fill="#ffffff"/>
+  <rect x="150" y="1140" width="290" height="30" rx="4" fill="#2a3550"/>
+  <rect x="460" y="1140" width="290" height="30" rx="4" fill="#2a3550"/>
+  <rect x="150" y="1180" width="600" height="60" rx="4" fill="#2a3550"/>
+  <rect x="380" y="1255" width="140" height="34" rx="17" fill="#0f9b8e"/>
+  <text x="450" y="1315" font-size="11" fill="#8a8a8a" text-anchor="middle">CONTACT — formulaire + CTA</text>
+</svg>

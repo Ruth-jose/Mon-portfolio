@@ -1,0 +1,36 @@
+===============================================================
+PROMPT STITCH — VERSION 1 (Wireframe initial)
+===============================================================
+Outil utilise : Stitch
+Etape du projet : conception preliminaire, avant la realisation
+                  du prototype Figma
+
+---------------------------------------------------------------
+PROMPT SOUMIS
+---------------------------------------------------------------
+Tu es designer UX. Genere un wireframe low-fidelity d'un portfolio
+personnel.
+
+Ecrans : Accueil (desktop et mobile) + Projets (desktop et mobile).
+
+Sections : header/nav, hero (H1 + CTA), a propos, competences,
+projets (cartes), contact (formulaire), footer.
+
+Contraintes : hierarchie H1/H2, responsive, accessibilite (labels,
+boutons), sobriete (ecoconception).
+
+---------------------------------------------------------------
+ANALYSE DU RESULTAT OBTENU
+---------------------------------------------------------------
+La structure generale proposee etait globalement satisfaisante et
+respectait l'ordre attendu des sections. Trois limites ont
+neanmoins ete identifiees a l'issue de cette premiere iteration :
+
+  1. Les sections Competences et Projets apparaissaient trop
+     resserrees sur la version mobile, nuisant a la lisibilite.
+  2. Le contraste entre l'en-tete fixe (header sticky) et le
+     contenu, une fois la page defilee, etait insuffisant.
+  3. Le bouton du formulaire de contact manquait de visibilite.
+
+Ces constats ont justifie la redaction d'un second prompt, corrige
+en consequence (voir prompt_v2.txt).
